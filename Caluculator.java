@@ -25,7 +25,7 @@ Class Demo
 		d=subtract(a,b);
 		e=multiply(a,b);
 		f=divide(a,b);
-		System.out.println("Final Try");
+		System.out.println("Final Try is almost Done");
 		System.out.println(“Addition:” + c + “Subtraction:” + d + “Multiplication:” + e + “Division:” + f)
 	}
 }
