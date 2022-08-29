@@ -7,7 +7,7 @@ Class Demo
 		int subtract(int a, int b)
 	{
 			return a-b;
-			System.out.println("ubtraction");
+			System.out.println("uaabtraction");
 		}
 		int multiply(int a, int b)
 	{
