@@ -1,3 +1,4 @@
+
 Class Demo
 {
 	int add(int a, int b)
@@ -8,11 +9,14 @@ Class Demo
 	{
 			return a-b;
 			System.out.println("subtraction");
+                        System.out.println("jai balayya");
+                       Sys tem.out println("jai ntr");
 		}
 		int multiply(int a, int b)
 	{
 			Systen.out.println(Multiplication);
 			return a*b;
+                        System.out.println("Added the Multiplication added by Bhanu");
 		}
 		int divide(int a, int b)
 	{
