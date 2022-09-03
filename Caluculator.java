@@ -1,3 +1,4 @@
+
 Class Demo
 {
 	int add(int a, int b)
@@ -8,6 +9,7 @@ Class Demo
 	{
 			return a-b;
 			System.out.println("subtraction");
+                        System.out.println("jai balayya");
 		}
 		int multiply(int a, int b)
 	{
