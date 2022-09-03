@@ -15,6 +15,16 @@ Class Demo
 		int multiply(int a, int b)
 	{
 			Systen.out.println(Multiplication);
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+			return a/b;
+		}
+		int divide(int a, int b)
+	{
+			return a*b;
+=======
+>>>>>>> 78db6c8aa5353f0bdbf9e431a7f5c57858db8385
 			return a*b;
                         System.out.println("Added the Multiplication added by Bhanu");
 		}
@@ -22,10 +32,16 @@ Class Demo
 	{
 			return a/b;
 			System.out.println(Division);
+<<<<<<< HEAD
 		}
 
 	yellow for yashu
 
+=======
+>>>>>>> 6628feb2042072b32822e5c0c70dfbc3e5af0c0b
+		}
+
+>>>>>>> 78db6c8aa5353f0bdbf9e431a7f5c57858db8385
 	public static void main(String args[])
 	{
 		int a,b,c,d,e,f;
