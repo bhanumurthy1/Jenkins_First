@@ -17,6 +17,7 @@ Class Demo
 		int divide(int a, int b)
 	{
 			return a/b;
+			System.out.println(Division);
 		}
 
 	public static void main(String args[])
