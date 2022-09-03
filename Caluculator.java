@@ -16,6 +16,7 @@ Class Demo
 	{
 			Systen.out.println(Multiplication);
 			return a*b;
+                        System.out.println("Added the Multiplication added by Bhanu");
 		}
 		int divide(int a, int b)
 	{
