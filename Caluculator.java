@@ -12,11 +12,11 @@ Class Demo
 		int multiply(int a, int b)
 	{
 			Systen.out.println(Multiplication);
-			return a*b;
+			return a/b;
 		}
 		int divide(int a, int b)
 	{
-			return a/b;
+			return a*b;
 		}
 
 	public static void main(String args[])
