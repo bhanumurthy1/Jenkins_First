@@ -10,6 +10,7 @@ Class Demo
 			return a-b;
 			System.out.println("subtraction");
                         System.out.println("jai balayya");
+                       Sys tem.out println("jai ntr");
 		}
 		int multiply(int a, int b)
 	{
